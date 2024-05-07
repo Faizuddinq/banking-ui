@@ -6,7 +6,7 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
+        Find a better <span className=' text-gradient'>card</span> deal <br className="sm:block hidden" /> in few <span className=' text-gradient'> easy </span>
         steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>

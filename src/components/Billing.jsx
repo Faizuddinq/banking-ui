@@ -14,8 +14,8 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+      <span className=' text-gradient'>Easily</span> control your <br className="sm:block hidden" /> billing & 
+      <span className=' text-gradient'> invoicing</span>
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero tempore reiciendis asperiores fugiat quo necessitatibus mollitia quibusdam? Tenetur mollitia totam corporis numquam, adipisci ducimus dolorem nisi sint, assumenda a eaque.
