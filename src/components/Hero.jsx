@@ -28,9 +28,7 @@ const Hero = () => {
           Payment Method.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+        Our team of specialists employs a method to determine which credit cards best match your requirements. We analyze factors such as annual percentage rates and annual fees.
         </p>
       </div>
 
